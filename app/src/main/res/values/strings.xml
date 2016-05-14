@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RedBlackTree</string>
+    <string name="delete">Delete</string>
+    <string name="hint2">enter a new number</string>
+    <string name="sort">Sort</string>
+    <string name="result">Nothing yet</string>
+</resources>
